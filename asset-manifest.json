@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app-calculo-almacen/static/css/main.65061d7e.css",
+    "main.js": "/app-calculo-almacen/static/js/main.bc34f229.js",
+    "static/js/787.39fce819.chunk.js": "/app-calculo-almacen/static/js/787.39fce819.chunk.js",
+    "static/media/wardrobe.png": "/app-calculo-almacen/static/media/wardrobe.b0ddfe0a3a9a2ca9002e.png",
+    "index.html": "/app-calculo-almacen/index.html",
+    "main.65061d7e.css.map": "/app-calculo-almacen/static/css/main.65061d7e.css.map",
+    "main.bc34f229.js.map": "/app-calculo-almacen/static/js/main.bc34f229.js.map",
+    "787.39fce819.chunk.js.map": "/app-calculo-almacen/static/js/787.39fce819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65061d7e.css",
+    "static/js/main.bc34f229.js"
+  ]
+}
